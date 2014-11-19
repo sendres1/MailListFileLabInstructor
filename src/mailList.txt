@@ -1,0 +1,9 @@
+John Doe
+1234 Anywhere St.
+Milwaukee, WI 53202
+Peter Drucker
+4444 Maple Road
+Chicago, IL 60606
+Bob Smith
+2345 Other St.
+Los Angeles, CA 93459
